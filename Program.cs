@@ -1,2 +1,6 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿using System;
+public class A{
+static void Main(string[] args){
 Console.WriteLine("Hello, World! jatemur.");
+}
+}
